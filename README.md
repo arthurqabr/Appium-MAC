@@ -89,7 +89,7 @@ Vamos fazer as primeiras configurações:
 
 Os outros parâmetros, mantenha como está.
 
-Agora acesse "Edite configurations ⚙️":
+Agora acesse "Edit configurations ⚙️":
 
 Informe os caminhos abaixo:
 
